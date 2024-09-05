@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abhishek Choudhary</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **ExpressJs**
-
-- 💬 Ask me about **react, supabase**
+- 💬 Ask me about **react, express,supabase**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
